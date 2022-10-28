@@ -1,4 +1,18 @@
-#Code for linkedlist 
+"""
+    @Author : Anirudh Sathish 
+    Lab 3 
+    Question 2 
+"""
+"""
+    Write a python program using classes to implement a queue with the following menu options,
+    1.Enqueue
+    2.dequeue
+    3.Peek (Note: Displays the front value but does not remove it)
+    4.Print (Note: Displays all the elements of a queue but does not remove the elements)
+    5.Exit
+"""
+
+
 
 class Node():
     def __init__(self , data):
