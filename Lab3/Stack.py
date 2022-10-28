@@ -1,4 +1,16 @@
-#Code for linkedlist 
+""""
+        @Author : Anirudh Sathish 
+        Lab 3 
+        Question 1 
+"""
+"""
+    Write a python program using classes to implement a stack with the following menu options,
+    1.Push
+    2.Pop
+    3.Peek (Note: Displays the top value but does not remove it)
+    4.Print (Note: Displays all the elements of a stack but does not remove the elements)
+    5.Exit
+"""
 
 class Node():
     def __init__(self , data):
