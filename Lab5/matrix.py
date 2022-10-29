@@ -4,9 +4,29 @@ Created on Tue Sep 13 14:40:13 2022
 
 @author: anirudh Sathish 
 
-@Roll_no : CS20B1125
 """
 
+"""
+Write a python program to perform matrix operations on an M x N matrix and solve a system of linear equations. Use inbuilt functions to implement the operations.
+Get two matrices from the user. The program should support the following Menus,
+
+Matrix Addition
+Matrix Subtraction
+Scalar Matrix Multiplication
+Elementwise Matrix Multiplication
+Matrix Multiplication
+Matrix Transpose
+Trace of a Matrix
+Solve System of Linear Equations
+Determinant
+ Inverse
+ Singular Value Decomposition
+ Eigen Value
+ Search an Element
+ Difference of Sum of Upper and Lower Triangular Matrix
+ Exit
+
+"""
 # Importing the neccesary libraries 
 import numpy as np 
 
